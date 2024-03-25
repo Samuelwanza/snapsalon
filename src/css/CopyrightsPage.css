@@ -1,0 +1,24 @@
+.copyrghts-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #555;
+  }
+  
+  p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
