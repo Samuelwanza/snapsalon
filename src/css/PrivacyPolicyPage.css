@@ -1,0 +1,27 @@
+.privacy-policy-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .last-updated {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  .policy-section {
+    margin-bottom: 30px;
+  }
+  
+  .policy-section h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .policy-section p {
+    line-height: 1.6;
+  }
+  
