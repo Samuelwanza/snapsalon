@@ -1,0 +1,54 @@
+.support-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  .contact-info,
+  .how-we-help {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  .thank-you {
+    font-style: italic;
+    color: #666;
+  }
+
+  .app-images {
+    margin-top: 40px;
+  }
+  
+  .app-image {
+    margin-bottom: 20px;
+  }
+  
+  .app-image img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  

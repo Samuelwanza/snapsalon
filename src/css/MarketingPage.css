@@ -1,0 +1,49 @@
+.marketing-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .feature {
+    margin-bottom: 40px;
+  }
+  
+  .feature h2 {
+    color: #333;
+  }
+  
+  .feature p {
+    margin-bottom: 20px;
+  }
+  
+  .feature img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cta {
+    text-align: center;
+  }
+  
+  .download-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .download-button:hover {
+    background-color: #0056b3;
+  }
+  
