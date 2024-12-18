@@ -5,7 +5,7 @@ const PrivacyPolicyPage = () => {
   return (
     <div className="privacy-policy-container">
       <h1>Privacy Policy</h1>
-      <p className="last-updated">Last Updated: 12/03/2024</p>
+      <p className="last-updated">Last Updated: 12/18/2024</p>
 
       <div className="policy-section">
         <h2>Introduction</h2>
@@ -17,12 +17,19 @@ const PrivacyPolicyPage = () => {
       </div>
 
       <div className="policy-section">
-        <h2>Information We Do Not Collect</h2>
+        <h2>Information We Collect</h2>
         <p>
-          Snap Salon does not collect any personal information or usage data
-          through the Snap Salon mobile application. Your privacy is our top
-          priority, and we are committed to ensuring that your personal
-          information remains secure.
+          Snap Salon collects personal information during the login process to enable
+          salon owners and salon clients to access their respective views within the application.
+          The information we collect may include but is not limited to:
+        </p>
+        <ul>
+          <li>Email address</li>
+          <li>Password</li>
+        </ul>
+        <p>
+          This information is used solely to authenticate users and provide them with
+          access to the appropriate user view (salon owner or salon client) within the app.
         </p>
       </div>
 
